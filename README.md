@@ -1,6 +1,6 @@
 # dazare-modal-old
 
-[Run on your CodeSandbox](https://githubbox.com/composite/modal-demo-vue2)
+[Run on your CodeSandbox](https://codesandbox.io/s/github/composite/modal-demo-vue2)
 
 ## Project setup
 ```

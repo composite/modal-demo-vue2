@@ -6,12 +6,11 @@
 }
 </style>
 <script>
-    import ModalContent from './ModalContent.vue'
-    export default {
+    const component = {
         props: ['modal'],
         data() {
           return {
-            comp: ModalContent
+            comp: component
           }
         },
         methods: {
@@ -20,6 +19,7 @@
             }
         }
     }
+    export default component
 </script>
 <template>
     <div class="modal-content">
