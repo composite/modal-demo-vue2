@@ -2,6 +2,8 @@
 
 [Run on your CodeSandbox](https://codesandbox.io/s/github/composite/modal-demo-vue2)
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/composite/modal-demo-vue2)
+
 ## Project setup
 ```
 npm install
